@@ -15,7 +15,7 @@ module.exports = {
   mccartney: {
     firstName: 'Shivanshu',
     lastName: 'Aggarwal',
-    genre: 'ROCK',
+    genre: 'CLASSIC',
   },
 
   hendrix: {
