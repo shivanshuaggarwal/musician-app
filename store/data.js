@@ -13,14 +13,14 @@ module.exports = {
   },
 
   mccartney: {
-    firstName: 'Shivanshu',
-    lastName: 'Aggarwal',
+    firstName: 'John',
+    lastName: 'Coltrane',
     genre: 'CLASSIC',
   },
 
   hendrix: {
-    firstName: 'Hari',
-    lastName: 'Ram',
+    firstName: 'Jimi',
+    lastName: 'Hendrix',
     genre: 'Rock',
   },
 
